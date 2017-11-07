@@ -8,3 +8,4 @@ htmlcov
 /client_secret.json
 /youtube/youtube/secret.py
 /youtube/grabcomments/secret.py
+/youtube/grabcomments/comments.py
