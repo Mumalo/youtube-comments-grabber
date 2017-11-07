@@ -1,0 +1,10 @@
+.idea
+*.DS_Store
+*.pyc
+*.sqlite3
+__pycache__
+.coverage
+htmlcov
+/client_secret.json
+/youtube/youtube/secret.py
+/youtube/grabcomments/secret.py
